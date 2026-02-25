@@ -12,3 +12,5 @@ Welcome to my personal notes page. Here I will collect links, tips, and resource
 - Practice Git commands daily
 - Keep notes organized
 - Review hardware labs weekly
+
+[link text](comp1238.md)
