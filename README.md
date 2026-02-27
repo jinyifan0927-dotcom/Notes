@@ -26,6 +26,7 @@ Welcome to my personal notes page. Here I will collect links, tips, and resource
  
  **Thursday**
  - 12:00 - [Math](https://learn.georgebrown.ca/d2l/home/432672)
+ - 2:00 - [COMP1236](https://learn.georgebrown.ca/d2l/home/455928)
    
 
 
